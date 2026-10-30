@@ -1,2 +1,2 @@
 # LFS
-Linux from scratch 
+Linux from scratch (start trying at 16)
